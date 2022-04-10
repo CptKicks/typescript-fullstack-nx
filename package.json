@@ -4,9 +4,9 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
-  "dependencies": {},
   "devDependencies": {
     "@nrwl/cli": "13.10.1",
+    "@nrwl/expo": "^13.9.0",
     "@nrwl/js": "13.10.1",
     "@nrwl/workspace": "13.10.1",
     "@types/node": "16.11.7",
